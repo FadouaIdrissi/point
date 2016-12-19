@@ -5,5 +5,6 @@ class
 	{
 		cout << "Voici les coordonnes : \t ";
 		cout << "X= " << x << " and Y= " << endl;
+		cout << "Fin de print" << endl;
 	}
 }
