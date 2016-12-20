@@ -4,7 +4,7 @@ class
 	public: void print()
 	{
 		cout << "Voici les coordonnes : \t ";
-		cout << "X= " << x  endl;
+		cout << "X= " << x  << endl;
 		
 	}
 }
